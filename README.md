@@ -44,7 +44,7 @@ Once the contract is deployed, you can interact with it by passing the address. 
 
 ## Author
 
-Sulochana
+SHRESHTHA PAL
 
 ## License
 
